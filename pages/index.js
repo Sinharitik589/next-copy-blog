@@ -7,7 +7,7 @@ export default () => (
     </Link>
     <button
       onClick={() => {
-        console.log("Hello");
+        console.log("Hello again to the new department");
       }}
     >
       Click me
